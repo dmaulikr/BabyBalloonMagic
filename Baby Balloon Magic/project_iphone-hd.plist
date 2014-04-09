@@ -1,0 +1,4577 @@
+<?xml version="1.0" encoding="UTF_8"?>
+<!DOCTYPE plist PUBLIC "_//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList_1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>bird_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {106, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{106, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{106, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1159, 1600}, {106, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bird_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {106, 41}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{106, 41}</string>
+			<key>spriteSourceSize</key>
+			<string>{106, 41}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1050, 1615}, {106, 41}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bird_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {107, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{107, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{107, 36}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1159, 1562}, {107, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bird_ani_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 0}, {105, 35}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{105, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{107, 35}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{829, 1733}, {105, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bird_ani_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{1, 0}, {105, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{105, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{107, 38}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{722, 1733}, {105, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bird_ani_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {107, 43}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{107, 43}</string>
+			<key>spriteSourceSize</key>
+			<string>{107, 43}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1050, 1570}, {107, 43}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_balloon.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 2}, {114, 348}}</string>
+			<key>spriteOffset</key>
+			<string>{1, _1}</string>
+			<key>spriteSize</key>
+			<string>{114, 348}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 350}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{453, 241}, {114, 348}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_balloon_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {29, 19}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{29, 19}</string>
+			<key>spriteSourceSize</key>
+			<string>{29, 19}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1240, 1541}, {29, 19}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_balloon_ani_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {73, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{73, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{73, 51}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{866, 1528}, {73, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_balloon_ani_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {82, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{82, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{82, 58}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1724, 415}, {82, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_balloon_ani_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {91, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{91, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{91, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1948, 453}, {91, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_balloon_ani_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {98, 71}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{98, 71}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 71}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1710, 944}, {98, 71}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_balloon_ani_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {101, 77}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{101, 77}</string>
+			<key>spriteSourceSize</key>
+			<string>{101, 77}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1856, 599}, {101, 77}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_balloon_ani_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {105, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{105, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{105, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{462, 1809}, {105, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_balloon_ani_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {107, 89}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{107, 89}</string>
+			<key>spriteSourceSize</key>
+			<string>{107, 89}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1178, 1450}, {107, 89}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_balloon_ani_17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {111, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{111, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{111, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{640, 1528}, {111, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_balloon_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{32, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 22}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{606, 1713}, {32, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_balloon_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {35, 25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{35, 25}</string>
+			<key>spriteSourceSize</key>
+			<string>{35, 25}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1360, 1458}, {35, 25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_balloon_ani_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {40, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{40, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 27}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1752, 1279}, {40, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_balloon_ani_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {44, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{44, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{44, 30}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1323, 1310}, {44, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_balloon_ani_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 35}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{51, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 35}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1856, 678}, {51, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_balloon_ani_7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {61, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{61, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{61, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1352, 578}, {61, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_balloon_ani_8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {67, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{67, 47}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 47}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1609, 1605}, {67, 47}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_balloon_ani_9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {67, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{67, 47}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 47}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1651, 1489}, {67, 47}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_bird_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {113, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{113, 47}</string>
+			<key>spriteSourceSize</key>
+			<string>{113, 47}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{390, 1254}, {113, 47}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_bird_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {113, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{113, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{113, 44}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{390, 1303}, {113, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_bird_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {113, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{113, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{113, 38}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{389, 1483}, {113, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_bird_ani_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {113, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{113, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{113, 38}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{389, 1443}, {113, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_bird_ani_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {113, 41}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{113, 41}</string>
+			<key>spriteSourceSize</key>
+			<string>{113, 41}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{390, 1349}, {113, 41}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_bird_ani_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {113, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{113, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{113, 46}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{389, 1395}, {113, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>blue_heart_balloon.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 32}, {178, 288}}</string>
+			<key>spriteOffset</key>
+			<string>{_1, _16}</string>
+			<key>spriteSize</key>
+			<string>{178, 288}</string>
+			<key>spriteSourceSize</key>
+			<string>{180, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1238, 2}, {178, 288}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {136, 168}}</string>
+			<key>spriteOffset</key>
+			<string>{_2, _1}</string>
+			<key>spriteSize</key>
+			<string>{136, 168}</string>
+			<key>spriteSourceSize</key>
+			<string>{140, 170}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1812, 210}, {136, 168}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {134, 170}}</string>
+			<key>spriteOffset</key>
+			<string>{_3, _0}</string>
+			<key>spriteSize</key>
+			<string>{134, 170}</string>
+			<key>spriteSourceSize</key>
+			<string>{140, 170}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{361, 1637}, {134, 170}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boy_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {132, 170}}</string>
+			<key>spriteOffset</key>
+			<string>{_4, _0}</string>
+			<key>spriteSize</key>
+			<string>{132, 170}</string>
+			<key>spriteSourceSize</key>
+			<string>{140, 170}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{146, 1737}, {132, 170}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boyfly_ani_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {146, 209}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{146, 209}</string>
+			<key>spriteSourceSize</key>
+			<string>{146, 209}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1598, 2}, {146, 209}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boyfly_ani_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {146, 206}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{146, 206}</string>
+			<key>spriteSourceSize</key>
+			<string>{146, 206}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1746, 2}, {146, 206}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boyfly_ani_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {146, 312}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{146, 312}</string>
+			<key>spriteSourceSize</key>
+			<string>{146, 312}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{861, 807}, {146, 312}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boyfly_ani_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {147, 179}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{147, 179}</string>
+			<key>spriteSourceSize</key>
+			<string>{147, 179}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{522, 906}, {147, 179}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boyfly_ani_7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {146, 179}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{146, 179}</string>
+			<key>spriteSourceSize</key>
+			<string>{146, 179}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1418, 868}, {146, 179}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boyfly_ani_8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {146, 184}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{146, 184}</string>
+			<key>spriteSourceSize</key>
+			<string>{146, 184}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1564, 536}, {146, 184}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boyfly_ani_9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {146, 190}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{146, 190}</string>
+			<key>spriteSourceSize</key>
+			<string>{146, 190}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1416, 536}, {146, 190}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boyfly_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {142, 179}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{142, 179}</string>
+			<key>spriteSourceSize</key>
+			<string>{142, 179}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1426, 1163}, {142, 179}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boyfly_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {142, 179}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{142, 179}</string>
+			<key>spriteSourceSize</key>
+			<string>{142, 179}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 1688}, {142, 179}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boyfly_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {142, 179}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{142, 179}</string>
+			<key>spriteSourceSize</key>
+			<string>{142, 179}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{217, 1531}, {142, 179}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boyfly_ani_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {142, 179}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{142, 179}</string>
+			<key>spriteSourceSize</key>
+			<string>{142, 179}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1712, 536}, {142, 179}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>boyfly_ani_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {142, 179}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{142, 179}</string>
+			<key>spriteSourceSize</key>
+			<string>{142, 179}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1566, 868}, {142, 179}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>christmas_light_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {857, 237}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{857, 237}</string>
+			<key>spriteSourceSize</key>
+			<string>{857, 237}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 667}, {857, 237}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>christmas_light_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {874, 237}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{874, 237}</string>
+			<key>spriteSourceSize</key>
+			<string>{874, 237}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {874, 237}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 2}, {114, 348}}</string>
+			<key>spriteOffset</key>
+			<string>{1, _1}</string>
+			<key>spriteSize</key>
+			<string>{114, 348}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 350}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{178, 906}, {114, 348}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon_ani_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {107, 89}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{107, 89}</string>
+			<key>spriteSourceSize</key>
+			<string>{107, 89}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1436, 1435}, {107, 89}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {29, 19}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{29, 19}</string>
+			<key>spriteSourceSize</key>
+			<string>{29, 19}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{115, 1890}, {29, 19}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon_ani_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {73, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{73, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{73, 51}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{866, 1581}, {73, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon_ani_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {82, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{82, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{82, 58}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1782, 797}, {82, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon_ani_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {91, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{91, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{91, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1950, 274}, {91, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon_ani_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {98, 71}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{98, 71}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 71}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1792, 857}, {98, 71}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon_ani_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {101, 77}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{101, 77}</string>
+			<key>spriteSourceSize</key>
+			<string>{101, 77}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1150, 1658}, {101, 77}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon_ani_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {105, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{105, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{105, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{355, 1809}, {105, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon_ani_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {107, 89}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{107, 89}</string>
+			<key>spriteSourceSize</key>
+			<string>{107, 89}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1287, 1486}, {107, 89}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon_ani_17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {111, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{111, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{111, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1323, 1344}, {111, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{32, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 22}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{215, 1712}, {32, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {35, 25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{35, 25}</string>
+			<key>spriteSourceSize</key>
+			<string>{35, 25}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1396, 1539}, {35, 25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon_ani_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {40, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{40, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 27}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1745, 1337}, {40, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon_ani_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {44, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{44, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{44, 30}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{568, 1087}, {44, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon_ani_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 35}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{51, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 35}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1598, 1489}, {51, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon_ani_7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {61, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{61, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{61, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1810, 930}, {61, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon_ani_8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {67, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{67, 47}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 47}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1374, 1635}, {67, 47}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_balloon_ani_9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {67, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{67, 47}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 47}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1652, 1349}, {67, 47}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>green_heart_balloon.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 40}, {178, 280}}</string>
+			<key>spriteOffset</key>
+			<string>{_1, _20}</string>
+			<key>spriteSize</key>
+			<string>{178, 280}</string>
+			<key>spriteSourceSize</key>
+			<string>{180, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1418, 2}, {178, 280}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>kitty_balloon.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{6, 0}, {174, 320}}</string>
+			<key>spriteOffset</key>
+			<string>{3, _0}</string>
+			<key>spriteSize</key>
+			<string>{174, 320}</string>
+			<key>spriteSourceSize</key>
+			<string>{180, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 906}, {174, 320}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>kitty_balloon_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {29, 19}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{29, 19}</string>
+			<key>spriteSourceSize</key>
+			<string>{29, 19}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1040, 995}, {29, 19}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>kitty_balloon_ani_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {73, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{73, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{73, 51}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1009, 942}, {73, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>kitty_balloon_ani_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {82, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{82, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{82, 58}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{228, 602}, {82, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>kitty_balloon_ani_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {91, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{91, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{91, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1950, 208}, {91, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>kitty_balloon_ani_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {98, 71}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{98, 71}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 71}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1948, 380}, {98, 71}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>kitty_balloon_ani_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {101, 77}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{101, 77}</string>
+			<key>spriteSourceSize</key>
+			<string>{101, 77}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1047, 1661}, {101, 77}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>kitty_balloon_ani_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {105, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{105, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{105, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1267, 1600}, {105, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>kitty_balloon_ani_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {107, 89}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{107, 89}</string>
+			<key>spriteSourceSize</key>
+			<string>{107, 89}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{941, 1570}, {107, 89}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>kitty_balloon_ani_17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {111, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{111, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{111, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 1869}, {111, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>kitty_balloon_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{32, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 22}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{283, 1712}, {32, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>kitty_balloon_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {35, 25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{35, 25}</string>
+			<key>spriteSourceSize</key>
+			<string>{35, 25}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1396, 1485}, {35, 25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>kitty_balloon_ani_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {40, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{40, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 27}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{643, 591}, {40, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>kitty_balloon_ani_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {44, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{44, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{44, 30}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{522, 1087}, {44, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>kitty_balloon_ani_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 35}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{51, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 35}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1704, 1090}, {51, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>kitty_balloon_ani_7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {61, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{61, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{61, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1810, 1056}, {61, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>kitty_balloon_ani_8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {67, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{67, 47}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 47}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{280, 1842}, {67, 47}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>kitty_balloon_ani_9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {67, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{67, 47}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 47}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1540, 1605}, {67, 47}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>moon_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {138, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{138, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{138, 138}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1183, 1310}, {138, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>moon_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {138, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{138, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{138, 138}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1642, 722}, {138, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>moon_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {138, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{138, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{138, 138}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1808, 380}, {138, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>moon_ani_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {138, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{138, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{138, 138}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1894, 2}, {138, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>moon_ani_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {138, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{138, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{138, 138}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{945, 1430}, {138, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pop_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {80, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{80, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1570, 1325}, {80, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pop_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {80, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{80, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{640, 1733}, {80, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pop_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {80, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{80, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1545, 1407}, {80, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pop_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {80, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{80, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1627, 1407}, {80, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pop_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {80, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{80, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{858, 1642}, {80, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pop_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {80, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{80, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1710, 862}, {80, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pop_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {80, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{80, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1622, 1049}, {80, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pop_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {80, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{80, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1570, 1243}, {80, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pop_7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {80, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _1}</string>
+			<key>spriteSize</key>
+			<string>{80, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1782, 717}, {80, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pop_8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {80, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _1}</string>
+			<key>spriteSize</key>
+			<string>{80, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1570, 1163}, {80, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>pop_9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {76, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{_2, _0}</string>
+			<key>spriteSize</key>
+			<string>{76, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{80, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1009, 807}, {76, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>purple_balloon.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 4}, {112, 346}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _2}</string>
+			<key>spriteSize</key>
+			<string>{112, 346}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 350}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{408, 906}, {112, 346}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>purple_balloon_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {29, 19}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{29, 19}</string>
+			<key>spriteSourceSize</key>
+			<string>{29, 19}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1009, 995}, {29, 19}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>purple_balloon_ani_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {73, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{73, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{73, 51}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{280, 1789}, {73, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>purple_balloon_ani_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {82, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{82, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{82, 58}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1724, 475}, {82, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>purple_balloon_ani_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {91, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{91, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{91, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1085, 1430}, {91, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>purple_balloon_ani_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {98, 71}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{98, 71}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 71}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{443, 591}, {98, 71}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>purple_balloon_ani_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {101, 77}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{101, 77}</string>
+			<key>spriteSourceSize</key>
+			<string>{101, 77}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1856, 520}, {101, 77}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>purple_balloon_ani_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {105, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{105, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{105, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1433, 1526}, {105, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>purple_balloon_ani_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {107, 89}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{107, 89}</string>
+			<key>spriteSourceSize</key>
+			<string>{107, 89}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{749, 1642}, {107, 89}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>purple_balloon_ani_17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {111, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{111, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{111, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{389, 1523}, {111, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>purple_balloon_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{32, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 22}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{249, 1712}, {32, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>purple_balloon_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {35, 25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{35, 25}</string>
+			<key>spriteSourceSize</key>
+			<string>{35, 25}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1396, 1512}, {35, 25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>purple_balloon_ani_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {40, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{40, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 27}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1810, 1098}, {40, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>purple_balloon_ani_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {44, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{44, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{44, 30}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1622, 1131}, {44, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>purple_balloon_ani_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 35}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{51, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 35}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1909, 678}, {51, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>purple_balloon_ani_7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {61, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{61, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{61, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1810, 1014}, {61, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>purple_balloon_ani_8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {67, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{67, 47}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 47}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1959, 568}, {67, 47}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>purple_balloon_ani_9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {67, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{67, 47}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 47}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1709, 1398}, {67, 47}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_balloon.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 4}, {112, 346}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _2}</string>
+			<key>spriteSize</key>
+			<string>{112, 346}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 350}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{294, 906}, {112, 346}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_balloon_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {29, 19}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{29, 19}</string>
+			<key>spriteSourceSize</key>
+			<string>{29, 19}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{115, 1869}, {29, 19}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_balloon_ani_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {73, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{73, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{73, 51}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{721, 1067}, {73, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_balloon_ani_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {82, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{82, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{82, 58}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1724, 295}, {82, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_balloon_ani_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {91, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{91, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{91, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1085, 1496}, {91, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_balloon_ani_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {98, 71}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{98, 71}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 71}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1652, 1210}, {98, 71}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_balloon_ani_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {101, 77}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{101, 77}</string>
+			<key>spriteSourceSize</key>
+			<string>{101, 77}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1864, 715}, {101, 77}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_balloon_ani_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {105, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{105, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{105, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{940, 1661}, {105, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_balloon_ani_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {107, 89}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{107, 89}</string>
+			<key>spriteSourceSize</key>
+			<string>{107, 89}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1436, 1344}, {107, 89}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_balloon_ani_17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {111, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{111, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{111, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1396, 1049}, {111, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_balloon_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{32, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 22}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{317, 1712}, {32, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_balloon_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {35, 25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{35, 25}</string>
+			<key>spriteSourceSize</key>
+			<string>{35, 25}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1397, 1458}, {35, 25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_balloon_ani_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {40, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{40, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 27}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{643, 620}, {40, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_balloon_ani_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {44, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{44, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{44, 30}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{614, 1087}, {44, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_balloon_ani_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 35}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{51, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 35}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1545, 1489}, {51, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_balloon_ani_7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {61, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{61, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{61, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1771, 1176}, {61, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_balloon_ani_8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {67, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{67, 47}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 47}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1959, 519}, {67, 47}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_balloon_ani_9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {67, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{67, 47}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 47}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1771, 1127}, {67, 47}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>red_heart_balloon.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 26}, {178, 294}}</string>
+			<key>spriteOffset</key>
+			<string>{_1, _13}</string>
+			<key>spriteSize</key>
+			<string>{178, 294}</string>
+			<key>spriteSourceSize</key>
+			<string>{180, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{878, 2}, {178, 294}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>roof.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {857, 236}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{857, 236}</string>
+			<key>spriteSourceSize</key>
+			<string>{857, 236}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{865, 298}, {857, 236}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep1_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {224, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{224, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{224, 138}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{861, 667}, {224, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep1_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {224, 134}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{224, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{224, 134}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{505, 1260}, {224, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep1_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {224, 137}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{224, 137}</string>
+			<key>spriteSourceSize</key>
+			<string>{224, 137}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{164, 1256}, {224, 137}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep1_ani_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {224, 131}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{224, 131}</string>
+			<key>spriteSourceSize</key>
+			<string>{224, 131}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{731, 1260}, {224, 131}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep1_ani_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {224, 129}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{224, 129}</string>
+			<key>spriteSourceSize</key>
+			<string>{224, 129}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{900, 536}, {224, 129}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep1_ani_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {224, 137}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{224, 137}</string>
+			<key>spriteSourceSize</key>
+			<string>{224, 137}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{522, 1121}, {224, 137}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep1_ani_7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {224, 141}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{224, 141}</string>
+			<key>spriteSourceSize</key>
+			<string>{224, 141}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 384}, {224, 141}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep1_ani_8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {224, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{224, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{224, 138}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1416, 728}, {224, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep1_ani_9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {224, 130}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{224, 130}</string>
+			<key>spriteSourceSize</key>
+			<string>{224, 130}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{957, 1298}, {224, 130}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep1_reverse_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {224, 137}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{224, 137}</string>
+			<key>spriteSourceSize</key>
+			<string>{224, 137}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{748, 1121}, {224, 137}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep1_reverse_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {224, 134}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{224, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{224, 134}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{163, 1395}, {224, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep1_reverse_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {224, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{224, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{224, 138}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 527}, {224, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep1_reverse_ani_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {224, 129}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{224, 129}</string>
+			<key>spriteSourceSize</key>
+			<string>{224, 129}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1126, 536}, {224, 129}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep1_reverse_ani_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {224, 131}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{224, 131}</string>
+			<key>spriteSourceSize</key>
+			<string>{224, 131}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1200, 1177}, {224, 131}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep1_reverse_ani_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {224, 130}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{224, 130}</string>
+			<key>spriteSourceSize</key>
+			<string>{224, 130}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{504, 1396}, {224, 130}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep1_reverse_ani_7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {224, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{224, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{224, 138}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1009, 1017}, {224, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep1_reverse_ani_8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {224, 141}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{224, 141}</string>
+			<key>spriteSourceSize</key>
+			<string>{224, 141}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 241}, {224, 141}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep1_reverse_ani_9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {224, 137}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{224, 137}</string>
+			<key>spriteSourceSize</key>
+			<string>{224, 137}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{974, 1159}, {224, 137}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep2_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {213, 141}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{213, 141}</string>
+			<key>spriteSourceSize</key>
+			<string>{213, 141}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{228, 459}, {213, 141}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep2_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {213, 139}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{213, 139}</string>
+			<key>spriteSourceSize</key>
+			<string>{213, 139}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1203, 874}, {213, 139}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep2_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {213, 135}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{213, 135}</string>
+			<key>spriteSourceSize</key>
+			<string>{213, 135}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 1551}, {213, 135}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep2_ani_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {213, 130}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{213, 130}</string>
+			<key>spriteSourceSize</key>
+			<string>{213, 130}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{730, 1396}, {213, 130}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sheep2_ani_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {213, 128}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{213, 128}</string>
+			<key>spriteSourceSize</key>
+			<string>{213, 128}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{685, 537}, {213, 128}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {19, 19}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{19, 19}</string>
+			<key>spriteSourceSize</key>
+			<string>{19, 19}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{833, 1003}, {19, 19}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {23, 23}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{23, 23}</string>
+			<key>spriteSourceSize</key>
+			<string>{23, 23}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{833, 957}, {23, 23}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star1_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {48, 52}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{48, 52}</string>
+			<key>spriteSourceSize</key>
+			<string>{48, 52}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{671, 1067}, {48, 52}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star1_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {39, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{39, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{39, 42}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1962, 670}, {39, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star1_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {33, 36}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{33, 36}</string>
+			<key>spriteSourceSize</key>
+			<string>{33, 36}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{974, 1121}, {33, 36}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star2_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{51, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 51}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1959, 617}, {51, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star2_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{51, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 51}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{497, 1756}, {51, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star2_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{51, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 51}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{550, 1756}, {51, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star3_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {54, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{54, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{54, 48}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1987, 142}, {54, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star3_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {41, 37}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{41, 37}</string>
+			<key>spriteSourceSize</key>
+			<string>{41, 37}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1950, 340}, {41, 37}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star3_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 45}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{51, 45}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 45}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1352, 620}, {51, 45}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star4_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {44, 45}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{44, 45}</string>
+			<key>spriteSourceSize</key>
+			<string>{44, 45}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1322, 1682}, {44, 45}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star4_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {56, 56}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{56, 56}</string>
+			<key>spriteSourceSize</key>
+			<string>{56, 56}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1374, 1577}, {56, 56}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star4_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {44, 46}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{44, 46}</string>
+			<key>spriteSourceSize</key>
+			<string>{44, 46}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{396, 602}, {44, 46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star5_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {52, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{52, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{52, 51}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{796, 1067}, {52, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star5_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{51, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 50}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1866, 794}, {51, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {19, 19}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{19, 19}</string>
+			<key>spriteSourceSize</key>
+			<string>{19, 19}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{833, 982}, {19, 19}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {24, 23}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{24, 23}</string>
+			<key>spriteSourceSize</key>
+			<string>{24, 23}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{833, 932}, {24, 23}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {34, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{34, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{34, 34}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1287, 1450}, {34, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>star9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {24, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{24, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{24, 24}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{833, 906}, {24, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sun_surprise_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {136, 135}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{136, 135}</string>
+			<key>spriteSourceSize</key>
+			<string>{136, 135}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{502, 1528}, {136, 135}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sun_surprise_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {160, 159}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{160, 159}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 159}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 1228}, {160, 159}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sun_surprise_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {159, 160}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{159, 160}</string>
+			<key>spriteSourceSize</key>
+			<string>{159, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 1389}, {159, 160}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sun_surprise_ani_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {159, 160}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{159, 160}</string>
+			<key>spriteSourceSize</key>
+			<string>{159, 160}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1235, 1015}, {159, 160}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>sun_surprise_ani_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {160, 159}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{160, 159}</string>
+			<key>spriteSourceSize</key>
+			<string>{160, 159}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{671, 906}, {160, 159}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tree_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {223, 216}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{223, 216}</string>
+			<key>spriteSourceSize</key>
+			<string>{223, 216}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{228, 241}, {223, 216}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tree_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {211, 205}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{211, 205}</string>
+			<key>spriteSourceSize</key>
+			<string>{211, 205}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1203, 667}, {211, 205}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_balloon.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 2}, {114, 348}}</string>
+			<key>spriteOffset</key>
+			<string>{1, _1}</string>
+			<key>spriteSize</key>
+			<string>{114, 348}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 350}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{569, 241}, {114, 348}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_balloon_ani_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {29, 19}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{29, 19}</string>
+			<key>spriteSourceSize</key>
+			<string>{29, 19}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1178, 1541}, {29, 19}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_balloon_ani_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {73, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{73, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{73, 51}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1009, 889}, {73, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_balloon_ani_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {82, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{82, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{82, 58}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1724, 355}, {82, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_balloon_ani_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {91, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{91, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{91, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1894, 142}, {91, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_balloon_ani_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {98, 71}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{98, 71}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 71}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{543, 591}, {98, 71}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_balloon_ani_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {101, 77}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{101, 77}</string>
+			<key>spriteSourceSize</key>
+			<string>{101, 77}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1540, 1526}, {101, 77}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_balloon_ani_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {105, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{105, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{105, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1705, 213}, {105, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_balloon_ani_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {107, 89}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{107, 89}</string>
+			<key>spriteSourceSize</key>
+			<string>{107, 89}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{497, 1665}, {107, 89}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_balloon_ani_17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {111, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{111, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{111, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{753, 1528}, {111, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_balloon_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{32, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 22}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{606, 1689}, {32, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_balloon_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {35, 25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{35, 25}</string>
+			<key>spriteSourceSize</key>
+			<string>{35, 25}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{603, 1756}, {35, 25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_balloon_ani_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {40, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{40, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 27}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1752, 1250}, {40, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_balloon_ani_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {44, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{44, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{44, 30}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1369, 1310}, {44, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_balloon_ani_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 35}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{51, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 35}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1993, 340}, {51, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_balloon_ani_7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {61, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{61, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{61, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1810, 972}, {61, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_balloon_ani_8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {67, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{67, 47}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 47}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1443, 1608}, {67, 47}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_balloon_ani_9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {67, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{67, 47}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 47}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{569, 1809}, {67, 47}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>violet_heart_balloon.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 12}, {178, 288}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 4}</string>
+			<key>spriteSize</key>
+			<string>{178, 288}</string>
+			<key>spriteSourceSize</key>
+			<string>{180, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1058, 2}, {178, 288}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_balloon.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 2}, {114, 348}}</string>
+			<key>spriteOffset</key>
+			<string>{1, _1}</string>
+			<key>spriteSize</key>
+			<string>{114, 348}</string>
+			<key>spriteSourceSize</key>
+			<string>{120, 350}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1087, 667}, {114, 348}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_balloon_ani__1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {29, 19}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{29, 19}</string>
+			<key>spriteSourceSize</key>
+			<string>{29, 19}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1209, 1541}, {29, 19}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_balloon_ani_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {73, 51}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{73, 51}</string>
+			<key>spriteSourceSize</key>
+			<string>{73, 51}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{280, 1736}, {73, 51}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_balloon_ani_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {82, 58}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{82, 58}</string>
+			<key>spriteSourceSize</key>
+			<string>{82, 58}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{312, 602}, {82, 58}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_balloon_ani_12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {91, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{91, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{91, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1652, 1283}, {91, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_balloon_ani_13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {98, 71}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{98, 71}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 71}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1710, 1017}, {98, 71}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_balloon_ani_14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {101, 77}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{101, 77}</string>
+			<key>spriteSourceSize</key>
+			<string>{101, 77}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1668, 1131}, {101, 77}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_balloon_ani_15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {105, 80}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{105, 80}</string>
+			<key>spriteSourceSize</key>
+			<string>{105, 80}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1598, 213}, {105, 80}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_balloon_ani_16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {107, 89}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{107, 89}</string>
+			<key>spriteSourceSize</key>
+			<string>{107, 89}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{640, 1642}, {107, 89}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_balloon_ani_17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {111, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{111, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{111, 112}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1509, 1049}, {111, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_balloon_ani_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {32, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{32, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{32, 22}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{606, 1665}, {32, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_balloon_ani_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {35, 25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{35, 25}</string>
+			<key>spriteSourceSize</key>
+			<string>{35, 25}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1323, 1458}, {35, 25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_balloon_ani_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {40, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{40, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{40, 27}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1745, 1308}, {40, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_balloon_ani_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {44, 30}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{44, 30}</string>
+			<key>spriteSourceSize</key>
+			<string>{44, 30}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1752, 1218}, {44, 30}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_balloon_ani_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 35}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{51, 35}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 35}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1757, 1090}, {51, 35}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_balloon_ani_7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {61, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{61, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{61, 40}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1352, 536}, {61, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_balloon_ani_8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {67, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{67, 47}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 47}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1253, 1682}, {67, 47}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_balloon_ani_9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {67, 47}}</string>
+			<key>spriteOffset</key>
+			<string>{0, _0}</string>
+			<key>spriteSize</key>
+			<string>{67, 47}</string>
+			<key>spriteSourceSize</key>
+			<string>{67, 47}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{146, 1688}, {67, 47}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>yellow_heart_balloon.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2, 26}, {178, 294}}</string>
+			<key>spriteOffset</key>
+			<string>{1, _13}</string>
+			<key>spriteSize</key>
+			<string>{178, 294}</string>
+			<key>spriteSourceSize</key>
+			<string>{180, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{685, 241}, {178, 294}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+	</dict>
+</dict>
+</plist>

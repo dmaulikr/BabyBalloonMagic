@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inflationAnimation</key>
+	<dict>
+		<key>delay</key>
+		<real>0.4</real>
+		<key>animationFrames</key>
+		<string>2,3,3,3,3,3,2,1</string>
+		<key>filenamePrefix</key>
+		<string>boy_ani_</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>starAnimation1</key>
+	<dict>
+		<key>delay</key>
+		<real>0.2</real>
+		<key>animationFrames</key>
+		<string>1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3</string>
+		<key>filenamePrefix</key>
+		<string>star1_ani_</string>
+	</dict>
+	<key>starAnimation5</key>
+	<dict>
+		<key>delay</key>
+		<real>0.2</real>
+		<key>animationFrames</key>
+		<string>1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2</string>
+		<key>filenamePrefix</key>
+		<string>star5_ani_</string>
+	</dict>
+	<key>starAnimation4</key>
+	<dict>
+		<key>delay</key>
+		<real>0.2</real>
+		<key>animationFrames</key>
+		<string>1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3</string>
+		<key>filenamePrefix</key>
+		<string>star4_ani_</string>
+	</dict>
+	<key>starAnimation3</key>
+	<dict>
+		<key>delay</key>
+		<real>0.2</real>
+		<key>animationFrames</key>
+		<string>1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3</string>
+		<key>filenamePrefix</key>
+		<string>star3_ani_</string>
+	</dict>
+	<key>starAnimation2</key>
+	<dict>
+		<key>delay</key>
+		<real>0.2</real>
+		<key>animationFrames</key>
+		<string>1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3</string>
+		<key>filenamePrefix</key>
+		<string>star2_ani_</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>walkLeftAnimation</key>
+	<dict>
+		<key>delay</key>
+		<real>0.2</real>
+		<key>animationFrames</key>
+		<string>1,2,3,4,5,4,3,2,1,6,7,8,9,8,7,6,1</string>
+		<key>filenamePrefix</key>
+		<string>sheep1_ani_</string>
+	</dict>
+	<key>walkRightAnimation</key>
+	<dict>
+		<key>delay</key>
+		<real>0.2</real>
+		<key>animationFrames</key>
+		<string>1,2,3,4,5,4,3,2,1,6,7,8,9,8,7,6,1</string>
+		<key>filenamePrefix</key>
+		<string>sheep1_reverse_ani_</string>
+	</dict>
+	<key>jumpAnimation</key>
+	<dict>
+		<key>delay</key>
+		<real>0.2</real>
+		<key>animationFrames</key>
+		<string>1,2,3,4,5</string>
+		<key>filenamePrefix</key>
+		<string>sheep2_ani_</string>
+	</dict>
+</dict>
+</plist>
